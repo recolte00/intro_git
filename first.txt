@@ -1,3 +1,4 @@
 Gitの練習
 git初コミット
 git commit
+check the command git status
